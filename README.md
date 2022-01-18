@@ -1,0 +1,2 @@
+# dtumlops
+Scratchwork and exercises.
